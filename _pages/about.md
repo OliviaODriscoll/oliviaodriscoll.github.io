@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Electrical Engineering and Computer Science at MIT. 
+I am a first-year PhD student in Electrical Engineering and Computer Science at MIT, advised by Professor Polina Golland in the Medical Vision Group. 
 
 I am broadly interested in computer vision for image-guided surgical interventions. 
 
