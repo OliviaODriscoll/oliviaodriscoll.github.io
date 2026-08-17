@@ -26,10 +26,10 @@ author:
   name             : "Olivia O'Driscoll"
   pronouns         : "she/her"  
   bio              : "I am a PhD student at MIT EECS interested in the development of imaging and computational methods to improve the accuracy and reliability of medical procedures."
-  location         : "New York, NY"
-  employer         : "Massachusetts Institute of Technology"
+  location         : "Cambridge, MA"
+  employer         : "MIT"
   uri              : # URL
-  email            : "olivia9 [@] school abbrv .edu" 
+  email            : "olivia9 [@] school .edu" 
 
   # Academic websites
   academia         : # URL
