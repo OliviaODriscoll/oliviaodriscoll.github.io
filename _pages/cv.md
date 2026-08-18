@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering and Computer Science, Massachussets Institute of Technology, 2031 (expected)
+* B.S. in Computer Science, Columbia University, 2022-2026
 
 Work experience
 ======
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Columbia University Engineering Student Council
