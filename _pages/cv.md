@@ -14,7 +14,6 @@ Education
 * **Massachusetts Institute of Technology**, Cambridge, MA — PhD, Electrical Engineering and Computer Science, 2026–2031 (expected)
   * Advisor: Polina Golland
 * **Columbia University School of Engineering and Applied Sciences**, New York, NY — BS, Computer Science; Minor in Dance, 2022–2026
-  * GPA: 4.0/4.0
   * Junior Tau Beta Pi Inductee (top 1/8th in class)
 
 Experience
