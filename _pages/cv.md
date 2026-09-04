@@ -75,9 +75,6 @@ Awards & Honors
 * **Chancellor's Award, $36,000** — Queen's University (Declined), 2022
 * **Image-Guided Procedures Student Paper Award — Runner Up**, SPIE Medical Imaging Conference, 2021
 * **Robert F. Wagner All-Conference Best Student Paper Award — 1st Place Finalist**, SPIE Medical Imaging Conference, 2021
-* **Youth Can Innovate Award (Grand Award)** — Canada-Wide Science Fair, Top 8 most innovative senior project, 2021
-* **Digital Technology Challenge Award** — Canada-Wide Science Fair, Best senior project in digital technology, 2021
-* **Senior Silver Medal**, Canada-Wide Science Fair, 2021
 
 Other Experience
 ======
