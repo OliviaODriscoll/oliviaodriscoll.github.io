@@ -101,4 +101,4 @@ Other Experience
 
 Citizenships
 ======
-* USA, Canada, EU
+* USA, Canada, EU (Ireland)
