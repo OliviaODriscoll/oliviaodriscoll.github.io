@@ -21,26 +21,16 @@ Experience
 ======
 * **Research Assistant**, Columbia University Heffner Biomedical Imaging Laboratory, New York, NY — March 2023–present
   * PI: Dr. Andrew Laine
-  * Harmonized multi-institutional lung CT datasets using deep-learned and statistical machine learning models, improving the reliability of emphysema and lung volume quantification across 16,000+ scans.
-  * Applied topological data analysis (persistent homology) to airway trees, helping to uncover biomarkers for chronic obstructive pulmonary disease.
-  * Contributed to the development of a convolutional neural network for emphysema segmentation to remove scanner effects from heterogeneous CT imaging protocols.
 
 * **Research Assistant**, MD Anderson Cancer Center Morfeus Laboratory, Houston, TX — June 2025–present
   * PI: Dr. Kristy Brock
-  * Engineered machine learning models to forecast radiation-induced liver disease from early imaging changes, enabling oncologists to adjust treatments before toxicity develops.
-  * Designed and optimized deep learning architectures for automated liver tumor segmentation, streamlining radiotherapy planning.
-  * Co-authored a peer-reviewed review in *Current Opinion in Biomedical Engineering* on deformable image registration, guiding researchers toward more accurate adaptive therapy workflows.
-  * Won Best Potential for Clinical Impact at End-of-Summer Image Guided Cancer Therapy Showcase.
 
 * **Computer Science Teaching Assistant**, Columbia University Department of Computer Science, New York, NY — September 2025–present
   * Spring 2026: Discrete Mathematics COMS 3203, Professor Ansaf Salleb-Aouissi
   * Fall 2025: Artificial Intelligence COMS 4701, Professor Ansaf Salleb-Aouissi and Professor Yun Lin
-  * Led office hours and recitations for a graduate-level class of 300 students and an undergraduate class of 200 students. Graded student work on topics including heuristic search, adversarial search, and machine learning.
 
 * **Research Assistant**, Queen's University Laboratory for Percutaneous Surgery, Kingston, Ontario, Canada — October 2018–August 2022
   * PI: Dr. Gabor Fichtinger
-  * Developed a machine learning system for real-time surgical tool tracking, enabling quantitative skill assessment and advancing objective surgical training methods, which was later translated to Senegal.
-  * Delivered four conference presentations and first-authored two peer-reviewed publications, winning two best student paper awards.
 
 Publications
 ======
