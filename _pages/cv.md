@@ -51,6 +51,14 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Awards and Honors
+======
+* NSF Fellowship for Summer Academy in I-BioX - **2024**
+  * Funding to attend IEEE EMBS summer academy in Greece
+* Schulich Leader Scholarship, $100,000
+  * McGill University (Declined), 2022
+
   
 Teaching
 ======

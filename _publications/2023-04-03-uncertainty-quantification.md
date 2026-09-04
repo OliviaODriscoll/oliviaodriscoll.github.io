@@ -6,8 +6,8 @@ permalink: /publication/2023-04-03-uncertainty-quantification
 excerpt: ''
 date: 2023-04-03
 venue: 'SPIE Medical Imaging'
-bibtexurl: 'http://academicpages.github.io/files/Austin2023.bib'
-paperurl: 'http://academicpages.github.io/files/Austin2023.pdf'
+bibtexurl: '/files/Austin2023.bib'
+paperurl: '/files/Austin2023.pdf'
 citation: "Austin, C., Hisey, R., O'Driscoll, O., Ungi, T., & Fichtinger, G. (2023, April). Using uncertainty quantification to improve reliability of video-based skill assessment metrics in central venous catheterization. In Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions, and Modeling (Vol. 12466, pp. 84-88). SPIE."
 ---
 

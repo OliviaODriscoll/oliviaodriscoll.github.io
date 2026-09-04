@@ -6,8 +6,8 @@ permalink: /publication/2022-04-04-Feasibility-of-object-detection-for-skill-ass
 excerpt: ''
 date: 2022-04-04
 venue: 'SPIE Medical Imaging'
-bibtexurl: 'http://academicpages.github.io/files/OODriscoll2022a.bib'
-paperurl: 'http://academicpages.github.io/files/OODriscoll2022a.pdf'
+bibtexurl: '/files/OODriscoll2022a.bib'
+paperurl: '/files/OODriscoll2022a.pdf'
 citation: "O'Driscoll, O., Hisey, R., Holden, M., Camire, D., Erb, J., Howes, D., ... & Fichtinger, G. (2022, April). Feasibility of object detection for skill assessment in central venous catheterization. In Medical Imaging 2022: Image-Guided Procedures, Robotic Interventions, and Modeling (Vol. 12034, pp. 358-365). SPIE."
 ---
 
