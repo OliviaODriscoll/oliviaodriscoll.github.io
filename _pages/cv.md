@@ -80,11 +80,6 @@ Awards & Honors
 * **Digital Technology Challenge Award** — Canada-Wide Science Fair, Best senior project in digital technology, 2021
 * **Senior Silver Medal**, Canada-Wide Science Fair, 2021
 
-Successful Grant Applications
-======
-* **Service to Others Grant**, Retired Teachers of Ontario, 2021
-* **FIRST Robotics Competition Rookie Grant**, Argosy Foundation, 2019
-
 Other Experience
 ======
 * **Vice President of Student Life**, Columbia University Engineering Student Council, New York, NY — April 2024–present
@@ -104,8 +99,6 @@ Other Experience
   * Taught 15 high-school girls weekly Python and data science classes, covering machine learning and data exploration.
   * Created a custom curriculum based on individual students' interests and skill levels.
 
-Specialized Skills
+Citizenships
 ======
-* **Programming Languages:** Python, Java, C++, Assembly, Matlab, R, C
-* **Other technical skills:** Cloud computing, Machine learning, AWS, Tensorflow, PyTorch
-* **Languages:** French (Professional proficiency), English (Native proficiency)
+* USA, Canada, EU
